@@ -1,4 +1,4 @@
-Umur,Jenis_Kelamin,Jenis_Nyeri_Dada,Tekanan_Darah,Kolestrol,Gula_Darah,Hasil_EKG,Detak_Jantung_Maksimum,Angina_Induksi,Oldpeak,Segmen_AST,Flourosopy,Thal,Target
+Umur,Jenis Kelamin,Jenis Nyeri Dada,Tekanan Darah,Kolestrol,Gula Darah,Hasil EKG,Detak Jantung Maksimum,Angina Induksi,Oldpeak,Segmen AST,Flourosopy,Thal,Target
 63,1,3,145,233,1,0,150,0,2.3,0,0,1,1
 37,1,2,130,250,0,1,187,0,3.5,0,0,2,1
 41,0,1,130,204,0,0,172,0,1.4,2,0,2,1
